@@ -40,14 +40,6 @@ I'm Harshit Yadav — a 20 y/o CS sophomore, passionate about Data Science, solv
 
 ---
 
-## 🎯 Goals for 2025
-
-- 🔹 Build a solid portfolio of Data Analytics case studies  
-- 🔹 Learn advanced Excel + Power BI reporting workflows  
-- 🔹 Sharpen SQL for data querying and transformations  
-- 🔹 Apply for internships in data analysis and ML
-
----
 
 ## 🤝 Let’s Connect
 
