@@ -1,5 +1,5 @@
 # Hey there 👋  
-I'm Harshit Yadav — a 20 y/o CS sophomore, passionate about Data Science, solving real-world problems, and continuously learning through hands-on projects.
+I'm Harshit Yadav — a 20 y/o CS pre final year student, passionate about Data Science, solving real-world problems, and continuously learning through hands-on projects.
 
 ---
 
@@ -19,15 +19,13 @@ I'm Harshit Yadav — a 20 y/o CS sophomore, passionate about Data Science, solv
   CNN-based model with Gradio web app | Accuracy: ~92%  
   [GitHub Repo](https://github.com/Harshityadav802/pneumonia-detection-cnn)
 
-- 📉 **EDA & Data Visualization Projects** (Coming soon...)  
-  Projects analyzing real-world datasets using Python, Pandas, and Matplotlib
+- 
 
 ---
 
 ## 🧰 Tools & Tech Stack
 
-- 🐍 Python • Pandas • NumPy • Matplotlib • Seaborn  
-- 📊 Power BI • Excel • SQL (PostgreSQL)  
+- 🐍 Python • Pandas • NumPy • Matplotlib • Seaborn   
 - 🧠 PyTorch • Scikit-learn • Gradio  
 - 🌐 Jupyter Notebooks • Git & GitHub • VS Code
 
