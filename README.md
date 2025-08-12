@@ -9,7 +9,7 @@ I'm Harshit Yadav — a 20 y/o CS pre final year student, passionate about Data 
 - Built ML models including a **Pneumonia Detection CNN** using PyTorch and Gradio (~92% accuracy).
 - Currently focused on **Data Science and Analytics**, using data to uncover insights and drive decisions.
 - Participated in hackathons and freelance work to apply skills in real scenarios.
-- Preparing for roles in **Data Analytics** by learning tools like SQL, Power BI, and Excel.
+- Preparing for roles in **Data Scientist** and working with big Data analysis tools example apache spark , etc.
 
 ---
 
