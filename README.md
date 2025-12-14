@@ -1,50 +1,75 @@
-# Hey there 👋  
-I'm Harshit Yadav — a 20 y/o CS pre final year student, passionate about AI and ML, solving real-world problems, and continuously learning through real time hands-on projects.
+# Harshit Yadav
+
+Pre-final year Computer Science student focused on  
+**Artificial Intelligence, Machine Learning, and Data Science**
 
 ---
 
-## My Journey So Far
+## About
 
-- Started learning Python and Ai&ML in 2023 through self-study and project-based learning.
-- Built ML models including  ** Phishing Detection using Catboost** using Pytorch , Catboost and React , **Pneumonia Detection CNN** using PyTorch and Gradio (~99% accuracy).
-- Currently focused on **Genrative ai and Deep learning**, using data to uncover insights and drive decisions.
-- Participated in hackathons and freelance work to apply skills in real scenarios.
-- Preparing for roles in **Data Scientist** and also working with  tools like langchain, apache spark , etc.
+I work on practical AI/ML systems with a strong emphasis on  
+clarity, performance, and real-world usability.
 
----
+Started my AI/ML journey in 2023 through self-study and hands-on projects.  
+Currently deepening my work in **Deep Learning and Generative AI**.
 
-## Featured Projects
-
-- **Pneumonia Detection from Chest X-rays**  
-  CNN-based model with Gradio based web app on Hugging Spaces| Accuracy: ~99%  
-  [GitHub Repo](https://github.com/Harshityadav802/pneumonia-detector-app)
-
-- **URL-based phishing Detection using Catboost**
-  CatBoost classifer based with  Pytorch and deployed on Vercel using React | Accuracy: 99.98%
-  [GitHub Repo](https://github.com/Harshity802/phishing-detector-app)
+Interested in **Data Scientist / ML Engineer** roles.
 
 ---
 
-## Tools & Tech Skills 
+## Selected Projects
 
--  Python • Pandas • NumPy • Matplotlib • Seaborn • OpenCv
--  PyTorch • Scikit-learn • Gradio • Vercel
--  Jupyter Notebooks • Git & GitHub • VS Code
+**Pneumonia Detection (Chest X-rays)**  
+CNN-based model built with PyTorch and deployed using Gradio.  
+Accuracy ~99%.  
+GitHub: https://github.com/Harshityadav802/pneumonia-detector-app
+
+**Phishing URL Detection**  
+CatBoost-based classifier for URL phishing detection.  
+Deployed with a React frontend on Vercel.  
+Accuracy 99.98%.  
+GitHub: https://github.com/Harshity802/phishing-detector-app
 
 ---
 
-## GitHub Stats
+## Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshityadav802&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshityadav802&layout=compact&theme=tokyonight)
+**Programming**  
+Python
+
+**Data & ML**  
+Pandas, NumPy, Scikit-learn, CatBoost
+
+**Deep Learning**  
+PyTorch, CNNs
+
+**Computer Vision**  
+OpenCV
+
+**Tools**  
+Gradio, Git, GitHub, Jupyter Notebook, VS Code, Vercel
 
 ---
 
+## Currently Exploring
 
-## 🤝 Let’s Connect
+Generative AI  
+LangChain  
+Apache Spark
 
-I'm always open to connect, collaborate, or talk about Ai and ML!  
+---
 
-📫 [LinkedIn](https://www.linkedin.com/in/harshityadav802/) • 🌐 [GitHub](https://github.com/Harshityadav802)
+## GitHub
+
+https://github.com/Harshityadav802  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Harshityadav802&show_icons=true&hide_title=true)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/harshityadav802/
+
 
 
